@@ -6,4 +6,4 @@
 
 **To run locally**
 
-``npm run dev`
+`npm run dev`
